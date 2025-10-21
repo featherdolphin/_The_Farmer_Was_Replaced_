@@ -11,7 +11,7 @@ harvestList = [
 [G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G],#00
 [G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,G],#01
 [G,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G],#02
-[G,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,G],#03
+[G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#03
 [G,T,T,T,T,S,T,S,T,S,T,S,T,S,T,S,T,S,T,T,S,T,S,T,S,T,S,T,T,T,T,G],#04
 [G,T,T,T,T,S,T,S,T,S,T,S,T,S,T,S,T,S,T,T,S,T,S,T,S,T,S,T,T,T,T,G],#05
 [G,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,G],#06
@@ -41,7 +41,7 @@ harvestList = [
 [G,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,G],#30
 [G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G],#31
 ] 
-tillRequiredPlant = [S,C,P]
+tillRequiredPlant = [S,C,P,K]
 pumkinCount = [0,0,0,0]
 maxPumkinCount = 4*4
 def harvestCarrotAndBush():
