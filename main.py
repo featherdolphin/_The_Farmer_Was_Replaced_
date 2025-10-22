@@ -11,13 +11,13 @@ harvestList = [
 [G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G],#00
 [G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,G],#01
 [G,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G],#02
-[G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#03
+[G,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,G],#03
 [G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#04
-[G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#05
+[G,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,G],#05
 [G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#06
-[G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#07
+[G,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,G],#07
 [G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#08
-[G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#09
+[G,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,G],#09
 [G,T,T,T,T,S,T,S,T,S,T,S,T,S,T,S,T,S,T,T,S,T,S,T,S,T,S,T,T,T,T,G],#10
 [G,T,T,T,T,S,T,S,T,S,T,S,T,S,T,S,T,S,T,T,S,T,S,T,S,T,S,T,T,T,T,G],#11
 [G,T,T,T,T,S,T,S,T,S,T,S,T,S,T,S,T,S,T,T,S,T,S,T,S,T,S,T,T,T,T,G],#12
