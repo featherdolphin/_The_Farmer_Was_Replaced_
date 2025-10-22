@@ -37,8 +37,8 @@ harvestList = [
 [G,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,G],#26
 [G,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,G],#27
 [G,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,G],#28
-[G,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,G],#29
-[G,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,T,G],#30
+[G,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,G],#29
+[G,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,K,T,G],#30
 [G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G],#31
 ] 
 tillRequiredPlant = [S,C,P,K]
