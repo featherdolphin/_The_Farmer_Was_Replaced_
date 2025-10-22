@@ -9,8 +9,8 @@ G = Entities.Grass
 
 harvestList = [
 [G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G,G],#00
-[G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,G],#01
-[G,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G],#02
+[G,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G],#01
+[G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,K,G,G],#02
 [G,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,G],#03
 [G,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,G],#04
 [G,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,C,K,G],#05
