@@ -43,7 +43,7 @@ harvestList = [
 ] 
 tillRequiredPlant = [S,C,P,K]
 pumkinCount = [0,0,0,0]
-maxPumkinCount = 4*4
+maxPumkinCount = 7
 def harvestCarrotAndBush():
     global pumkinCount
     global maxPumkinCount
@@ -53,26 +53,26 @@ def harvestCarrotAndBush():
     if get_entity_type() != P:
         harvest()
     elif can_harvest():
-        if y<6:
-            if x<14:
+        if y<=30:
+            if x>14:
                 pumkinCount[0] += 1
             else:
                 pumkinCount[1] += 1
         else:
-            if x<14:
+            if x>14:
                 pumkinCount[2] += 1
             else:
                 pumkinCount[3] += 1
             
-        if y<6:
-            if x<14 and pumkinCount[0] == maxPumkinCount:
+        if y<=30:
+            if x>14 and pumkinCount[0] == maxPumkinCount:
                 harvest()
                 pumkinCount[0] = 0
             elif pumkinCount[1] == maxPumkinCount:
                 harvest()
                 pumkinCount[1] = 0
-        elif y>6:
-            if x<14 and pumkinCount[2] == maxPumkinCount:
+        elif y<=30:
+            if x>14 and pumkinCount[2] == maxPumkinCount:
                 harvest()
                 pumkinCount[2] = 0
             elif pumkinCount[3] == maxPumkinCount:
